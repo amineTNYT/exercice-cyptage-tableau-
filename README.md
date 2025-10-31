@@ -1,6 +1,6 @@
 Algorithme de Cryptage par Clé Automatique
 Principe du Cryptage
-Cet algorithme transforme un tableau de mots en versions cryptées en utilisant une technique de chiffrement symétrique où le premier caractère de chaque mot sert de clé pour crypter l'ensemble du mot.
+Cet algorithme transforme un tableau de mots en versions cryptées en utilisant une technique de chiffrement symétrique où le premier caractère de chaque mot sert de clé pour  crypter l'ensemble du mot.
 
 Algorithme Détaillé
 Entrée :
