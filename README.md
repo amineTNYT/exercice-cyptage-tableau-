@@ -1,4 +1,4 @@
-<img width="952" height="414" alt="image" src="https://github.com/user-attachments/assets/e41377b8-30f6-4cd4-8fdb-858aa2cd9248" />
+<img width="400" height="414" alt="image" src="https://github.com/user-attachments/assets/e41377b8-30f6-4cd4-8fdb-858aa2cd9248" />
 Voici l'exemple d'exécution du programme de cryptage, présenté de manière claire :
 
 Exemple d'exécution :
