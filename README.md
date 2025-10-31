@@ -1,8 +1,8 @@
-Algorithme de Cryptage par Clé Automatique
-Principe du Cryptage
+                                                        Algorithme de Cryptage par Clé Automatique
+    Principe du Cryptage
 Cet algorithme transforme un tableau de mots en versions cryptées en utilisant une technique de chiffrement symétrique où le premier caractère de chaque mot sert de clé pour  crypter l'ensemble du mot.
 
-Algorithme Détaillé
+    Algorithme Détaillé
 Entrée :
 Un tableau t contenant n mots (2 ≤ n ≤ 100)
 
@@ -23,7 +23,7 @@ Convertir code en caractère
 
 Construire le mot crypté caractère par caractère
 
-Exemple Complet
+    Exemple Complet
 Tableau Original :
 Index	Mot
 0	"alerte"
