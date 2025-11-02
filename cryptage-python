@@ -1,7 +1,5 @@
- from numpy import array
-
-
-
+#CORRECTION
+from numpy import array
 # Fonction pour saisir la taille
 def sasir():
     n = int(input("Donner la taille du tableau : "))
@@ -48,13 +46,10 @@ def afficher(t, n, nom):
 # Programme Principal
 # Saisie de la taille
 n = sasir()
-
 # Création des tableaux
 t = array([str] * n)
-
 # Remplissage
 remplir(t, n)
-
 # Affichage avant cryptage
 afficher(t, n,)
 crypter_tableau(t,n)
