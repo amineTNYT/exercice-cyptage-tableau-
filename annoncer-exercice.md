@@ -2,7 +2,10 @@
 
 ## 📋 **Énoncé du Problème**
 Développer un algorithme qui crypte un tableau de mots en utilisant une technique de chiffrement symétrique où chaque mot s'auto-crypte avec son premier caractère comme clé de chiffrement.
-Écrire un programme qui permet de remplir le tableau t par n messages (2 < n ≤ 100), ces messages ayant une longueur maximale de 20 caractères, on désire les crypter selon le procédé suivant :
+
+
+
+- Écrire un programme qui permet de remplir le tableau t par n messages (2 < n ≤ 100), ces messages ayant une longueur maximale de 20 caractères, on désire les crypter selon le procédé suivant :
 
 Le premier caractère du message est considéré comme clé de cryptage.
 
