@@ -40,7 +40,7 @@ def crypter_tableau(t, n):
 def afficher(t, n, nom):
     print(f"\n{nom} :")
     for i in range(n):
-        print(f'"{t[i]}"', end=" ")
+        print(t[i] ,end=" ")
     print()
 
 # Programme Principal
