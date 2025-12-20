@@ -7,11 +7,11 @@ Développer un algorithme qui crypte un tableau de mots en utilisant une techniq
 
 - Écrire un programme qui permet de remplir le tableau t par n messages (2 < n ≤ 100), ces messages ayant une longueur maximale de 20 caractères, on désire les crypter selon le procédé suivant :
 
-Le premier caractère du message est considéré comme clé de cryptage.
+- Le premier caractère du message est considéré comme clé de cryptage.
 
-Chaque caractère du message sera codé en ajoutant son code ASCII au code ASCII de la clé. Si cette somme dépasse 127, on en soustrait 127.
+- Chaque caractère du message sera codé en ajoutant son code ASCII au code ASCII de la clé. Si cette somme dépasse 127, on en soustrait 127.
 
-Déterminer le caractère dont le code ASCII est égal à cette somme.
+- Déterminer le caractère dont le code ASCII est égal à cette somme.
 
 
 # 🎓 Applications Pédagogiques
