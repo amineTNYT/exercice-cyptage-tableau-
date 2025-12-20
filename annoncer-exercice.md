@@ -11,7 +11,7 @@ Chaque caractère du message sera codé en ajoutant son code ASCII au code ASCII
 Déterminer le caractère dont le code ASCII est égal à cette somme.
 
 
-🎓 Applications Pédagogiques
+# 🎓 Applications Pédagogiques
 Cet algorithme est idéal pour apprendre :
 
 1) La manipulation des chaînes de caractères
