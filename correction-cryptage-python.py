@@ -15,9 +15,6 @@ def remplir(t, n):
             print("La longueur doit être entre 1 et 19 caractères")
             t[i] = input("t["+str(i)+"]= ")
 def crypter_message(msg):
-    if len(msg) == 0:
-        return msg
-    
     cle = msg[0]
     message_crypte = ""
     
@@ -37,8 +34,7 @@ def crypter_tableau(t, n):
 
 
 # Fonction pour afficher
-def afficher(t, n, nom):
-    print(f"\n{nom} :")
+def afficher(t, n):
     for i in range(n):
         print(t[i] ,end=" ")
     print()
@@ -53,6 +49,6 @@ remplir(t, n)
 # Affichage avant cryptage
 afficher(t, n,)
 crypter_tableau(t,n)
-afficher(t, n,)
+afficher(t, n)
 
 
