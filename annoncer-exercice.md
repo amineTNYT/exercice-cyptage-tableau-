@@ -14,15 +14,3 @@ Développer un algorithme qui crypte un tableau de mots en utilisant une techniq
 - Déterminer le caractère dont le code ASCII est égal à cette somme.
 
 
-# 🎓 Applications Pédagogiques
-Cet algorithme est idéal pour apprendre :
-
-1) La manipulation des chaînes de caractères
-
-2) Les conversions ASCII
-
-3) Les algorithmes de cryptage basique
-
-4) Le traitement des tableaux
-
-5) Les opérations modulo
