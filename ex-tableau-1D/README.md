@@ -1,6 +1,6 @@
 ## 📌 Exercices sur les tableaux 1D
 
-Dans ce dossier, vous trouverez différents exercices portant sur les **tableaux à une dimension (tableaux 1D)**.
+Dans ce dossier, vous trouverez différents exercices portant sur les **tableaux à une dimension (tableaux 1D)**. destinés aux **élèves de 2ᵉ, 3ᵉ et 4ᵉ année Science d'Informatique**, ainsi qu’aux **sections scientifiques**.
 
 Ces exercices permettent de pratiquer plusieurs notions fondamentales en algorithmique, notamment :
 - les **chaînes de caractères**
