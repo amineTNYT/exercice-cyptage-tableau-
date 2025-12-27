@@ -8,11 +8,11 @@ Ce dépôt contient des cours, des exercices corrigés et des projets réalisés
 
 | Dossier                  | Description                                      | Date de mise à jour |
 |--------------------------|--------------------------------------------------|---------------------|
-| **cours**                | Notes de cours, résumés et supports de TD/TP     | il y a 2 jours      |
+| **cours**                | Notes de cours, résumés et supports de TD/TP     |    |
 | **ex matrice**           | Exercices sur les matrices (déclarations, opérations, algorithmes) | hier                |
-| **ex tournage a la main**| Exercices de programmation manuelle  et algorithmes de base | il y a 2 jours      |
-| **ex tri**               | Exercices et implémentations d'algorithmes de tri (bubble, insertion, merge, quick, etc.) | il y a 3 jours      |
-| **ex-tableau-1D**        | Exercices sur les tableaux à une dimension (parcours, recherche, modification) | il y a 2 jours      |
+| **ex tournage a la main**| Exercices de programmation manuelle  et algorithmes de base |     |
+| **ex tri**               | Exercices et implémentations d'algorithmes de tri (bulle, insertion sélection shell) |       |
+| **ex-tableau-1D**        | Exercices sur les tableaux à une dimension (parcours, recherche, modification) |      |
 
 ## Comment utiliser ce repository
 
