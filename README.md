@@ -7,16 +7,16 @@ Ce dépôt contient des cours, des exercices corrigés et des projets réalisés
 
 ## Contenu du repository
 
-| Dossier                  | Description                                      | Date de mise à jour |
-|--------------------------|--------------------------------------------------|---------------------|
-| **cours**                | Notes de cours, résumés et supports de TD/TP     |    |
-| **ex matrice**           | Exercices sur les matrices (déclarations, opérations,) |              |
-| **ex tournage a la main**| Exercices de programmation manuelle  et algorithmes de base |     |
-| **ex tri**               | Exercices et implémentations d'algorithmes de tri (bulle, insertion sélection shell) |       |
-| **ex-tableau-1D**        | Exercices sur les tableaux à une dimension (parcours, recherche, modification) |      |
+| Dossier                  | Description                                      | 
+|--------------------------|--------------------------------------------------|
+| **cours**                | Notes de cours, résumés et supports de TD/TP     |    
+| **ex matrice**           | Exercices sur les matrices (déclarations, opérations,) |              
+| **ex tournage a la main**| Exercices de programmation manuelle  et algorithmes de base |     
+| **ex tri**               | Exercices et implémentations d'algorithmes de tri (bulle, insertion sélection shell) |       
+| **ex-tableau-1D**        | Exercices sur les tableaux à une dimension (parcours, recherche, modification) |      
 
 ## Comment utiliser ce repository
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/amineTNYT/2eme-3eme-annee.git
+   git exercises-python-algorithms.git
