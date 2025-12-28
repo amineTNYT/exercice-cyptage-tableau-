@@ -1,6 +1,10 @@
 # Recherche Séquentielle et Dichotomique
 
 Ce dossier contient les supports de cours et résumés sur les algorithmes de **recherche séquentielle** (recherche linéaire) et **recherche dichotomique** (recherche binaire) en Python.
+## Pour les élèves de 3ème année SI
+
+Ces algorithmes sont au programme et souvent posés aux examens/concours.
+
 
 ## Contenu
 
