@@ -9,9 +9,4 @@ Ce dossier contient les supports de cours et résumés sur les algorithmes de **
 - Pour la recherche dichotomique : le tableau doit être trié au préalable.
 
 ## Exemple rapide (recherche séquentielle)
-```python
-def recherche_sequentielle(tab, valeur):
-    for i in range(len(tab)):
-        if tab[i] == valeur:
-            return i  # indice trouvé
-    return -1  # non trouvé
+
